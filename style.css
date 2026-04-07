@@ -1,0 +1,19 @@
+.container {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    margin-top: 60px;
+    max-width: px;
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.1);
+}
+
+label {
+    font-weight: bold;
+    color: #cc6699;
+}
+
+#feedback {
+    color: #cc0066;
+    font-weight: bold;
+    margin-top: 10px;
+}
